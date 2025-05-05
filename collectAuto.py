@@ -4,6 +4,7 @@ import csv
 import os
 import datetime
 import logging
+from datetime import timezone, timedelta
 
 # Gunakan os.path.join untuk path yang lebih portabel
 import os
@@ -25,8 +26,9 @@ def collect_air_quality_data():
         f'https://api.waqi.info/feed/A416842/?token={token}',
         f'https://api.waqi.info/feed/@8294/?token={token}'
     ]
-    
-    current_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+  
+    wib = timezone(timedelta(hours=7))
+    current_time = datetime.datetime.now(wib).strftime('%Y-%m-%d %H:%M:%S')
     
     # Periksa apakah file CSV sudah ada
     file_exists = os.path.isfile(csv_file)
