@@ -494,3 +494,7 @@
 2025-05-10 17:06:55,322 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
 2025-05-10 17:06:55,830 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
 2025-05-10 17:06:55,830 - INFO - Script selesai dengan sukses
+2025-05-10 18:10:45,527 - INFO - Script dimulai
+2025-05-10 18:10:46,333 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 18:10:46,961 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 18:10:46,961 - INFO - Script selesai dengan sukses

@@ -237,3 +237,5 @@ timestamp,station_id,station_name,aqi,pm25,pm10,temperature,humidity
 2025-05-10 23:09:26,8294,"Jakarta, Indonesia",153,153,,26,94
 2025-05-11 00:06:54,-416842,Jakarta GBK,100,100,42,,
 2025-05-11 00:06:54,8294,"Jakarta, Indonesia",124,124,,26,94
+2025-05-11 01:10:45,-416842,Jakarta GBK,106,106,45,,
+2025-05-11 01:10:45,8294,"Jakarta, Indonesia",124,124,,26,94
