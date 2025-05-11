@@ -23,6 +23,12 @@ jobs:
       - name: Collect air quality data
         run: python collectAuto.py
 
+      - name: Collect weather data gbk
+        run: python data_weather_gbk.py
+
+      - name: Collect weather data kemayoran
+        run: python data_weather_kemayoran.py
+
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
