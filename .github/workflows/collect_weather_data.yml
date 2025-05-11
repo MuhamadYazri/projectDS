@@ -1,12 +1,12 @@
-name: Collect Air Quality Data
+name: Collect Weather Data
 
 on:
   schedule:
-    - cron: "0 * * * *" # Setiap jam
-  workflow_dispatch: # Untuk memicu manual
+    - cron: "0 0 * * *" # Run only at midnight (00:00) every day
+  workflow_dispatch: # For manual triggers
 
 jobs:
-  collect-data:
+  collect-weather-data:
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -25,12 +25,15 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Collect air quality data
-        run: python collectAuto.py
+      - name: Collect weather data gbk
+        run: python data_weather_gbk.py
+
+      - name: Collect weather data kemayoran
+        run: python data_weather_kemayoran.py
 
       - name: Commit and push if changed
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "GitHub Actions"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update data" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update weather data" && git push)
