@@ -2,3 +2,543 @@
 2025-05-05 19:35:54,764 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
 2025-05-05 19:35:55,169 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
 2025-05-05 19:35:55,169 - INFO - Script selesai dengan sukses
+2025-05-05 12:48:01,320 - INFO - Script dimulai
+2025-05-05 12:48:02,151 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-05 12:48:02,802 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-05 12:48:02,803 - INFO - Script selesai dengan sukses
+2025-05-05 13:21:39,400 - INFO - Script dimulai
+2025-05-05 13:21:40,257 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-05 13:21:40,921 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-05 13:21:40,922 - INFO - Script selesai dengan sukses
+2025-05-05 14:05:49,431 - INFO - Script dimulai
+2025-05-05 14:05:51,319 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-05 14:05:51,858 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-05 14:05:51,858 - INFO - Script selesai dengan sukses
+2025-05-05 14:09:14,003 - INFO - Script dimulai
+2025-05-05 14:09:14,840 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-05 14:09:15,497 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-05 14:09:15,497 - INFO - Script selesai dengan sukses
+2025-05-05 14:11:01,856 - INFO - Script dimulai
+2025-05-05 14:11:03,106 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-05 14:11:03,727 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-05 14:11:03,727 - INFO - Script selesai dengan sukses
+2025-05-05 15:09:34,751 - INFO - Script dimulai
+2025-05-05 15:09:35,463 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-05 15:09:36,000 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-05 15:09:36,000 - INFO - Script selesai dengan sukses
+2025-05-05 16:11:47,914 - INFO - Script dimulai
+2025-05-05 16:11:48,684 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-05 16:11:49,263 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-05 16:11:49,263 - INFO - Script selesai dengan sukses
+2025-05-05 17:08:00,255 - INFO - Script dimulai
+2025-05-05 17:08:00,793 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-05 17:08:01,221 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-05 17:08:01,222 - INFO - Script selesai dengan sukses
+2025-05-05 18:10:24,585 - INFO - Script dimulai
+2025-05-05 18:10:25,127 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-05 18:10:25,556 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-05 18:10:25,557 - INFO - Script selesai dengan sukses
+2025-05-05 19:06:51,520 - INFO - Script dimulai
+2025-05-05 19:06:52,343 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-05 19:06:53,011 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-05 19:06:53,011 - INFO - Script selesai dengan sukses
+2025-05-05 20:10:08,383 - INFO - Script dimulai
+2025-05-05 20:10:09,147 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-05 20:10:09,686 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-05 20:10:09,686 - INFO - Script selesai dengan sukses
+2025-05-05 21:08:11,550 - INFO - Script dimulai
+2025-05-05 21:08:12,176 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-05 21:08:12,712 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-05 21:08:12,712 - INFO - Script selesai dengan sukses
+2025-05-05 22:08:47,803 - INFO - Script dimulai
+2025-05-05 22:08:48,542 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-05 22:08:49,076 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-05 22:08:49,077 - INFO - Script selesai dengan sukses
+2025-05-05 23:08:32,396 - INFO - Script dimulai
+2025-05-05 23:08:32,938 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-05 23:08:33,365 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-05 23:08:33,365 - INFO - Script selesai dengan sukses
+2025-05-06 00:44:32,193 - INFO - Script dimulai
+2025-05-06 00:44:33,018 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 00:44:33,666 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 00:44:33,666 - INFO - Script selesai dengan sukses
+2025-05-06 02:25:30,261 - INFO - Script dimulai
+2025-05-06 02:25:31,027 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 02:25:31,612 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 02:25:31,612 - INFO - Script selesai dengan sukses
+2025-05-06 03:32:52,790 - INFO - Script dimulai
+2025-05-06 03:32:53,579 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 03:32:54,113 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 03:32:54,113 - INFO - Script selesai dengan sukses
+2025-05-06 04:11:55,287 - INFO - Script dimulai
+2025-05-06 04:11:56,118 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 04:11:56,763 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 04:11:56,763 - INFO - Script selesai dengan sukses
+2025-05-06 05:09:37,416 - INFO - Script dimulai
+2025-05-06 05:09:38,257 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 05:09:38,925 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 05:09:38,926 - INFO - Script selesai dengan sukses
+2025-05-06 06:13:25,565 - INFO - Script dimulai
+2025-05-06 06:13:26,347 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 06:13:26,994 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 06:13:26,995 - INFO - Script selesai dengan sukses
+2025-05-06 07:09:44,112 - INFO - Script dimulai
+2025-05-06 07:09:44,854 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 07:09:45,391 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 07:09:45,391 - INFO - Script selesai dengan sukses
+2025-05-06 08:13:28,809 - INFO - Script dimulai
+2025-05-06 08:13:29,641 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 08:13:30,291 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 08:13:30,292 - INFO - Script selesai dengan sukses
+2025-05-06 09:10:03,440 - INFO - Script dimulai
+2025-05-06 09:10:04,346 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 09:10:05,012 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 09:10:05,013 - INFO - Script selesai dengan sukses
+2025-05-06 10:09:58,878 - INFO - Script dimulai
+2025-05-06 10:09:59,599 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 10:10:00,252 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 10:10:00,253 - INFO - Script selesai dengan sukses
+2025-05-06 11:08:00,316 - INFO - Script dimulai
+2025-05-06 11:08:01,145 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 11:08:01,810 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 11:08:01,810 - INFO - Script selesai dengan sukses
+2025-05-06 12:18:44,179 - INFO - Script dimulai
+2025-05-06 12:18:44,982 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 12:18:45,609 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 12:18:45,609 - INFO - Script selesai dengan sukses
+2025-05-06 13:23:53,792 - INFO - Script dimulai
+2025-05-06 13:23:54,635 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 13:23:55,308 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 13:23:55,308 - INFO - Script selesai dengan sukses
+2025-05-06 14:09:20,042 - INFO - Script dimulai
+2025-05-06 14:09:20,962 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 14:09:21,613 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 14:09:21,613 - INFO - Script selesai dengan sukses
+2025-05-06 15:12:59,645 - INFO - Script dimulai
+2025-05-06 15:13:00,447 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 15:13:00,981 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 15:13:00,982 - INFO - Script selesai dengan sukses
+2025-05-06 16:11:15,935 - INFO - Script dimulai
+2025-05-06 16:11:16,392 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 16:11:16,821 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 16:11:16,822 - INFO - Script selesai dengan sukses
+2025-05-06 17:08:22,028 - INFO - Script dimulai
+2025-05-06 17:08:22,656 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 17:08:23,192 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 17:08:23,192 - INFO - Script selesai dengan sukses
+2025-05-06 18:12:44,750 - INFO - Script dimulai
+2025-05-06 18:12:45,482 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 18:12:46,020 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 18:12:46,021 - INFO - Script selesai dengan sukses
+2025-05-06 19:06:57,074 - INFO - Script dimulai
+2025-05-06 19:06:57,657 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 19:06:58,100 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 19:06:58,100 - INFO - Script selesai dengan sukses
+2025-05-06 20:10:15,381 - INFO - Script dimulai
+2025-05-06 20:10:16,154 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 20:10:16,731 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 20:10:16,731 - INFO - Script selesai dengan sukses
+2025-05-06 21:08:15,610 - INFO - Script dimulai
+2025-05-06 21:08:16,162 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 21:08:16,591 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 21:08:16,591 - INFO - Script selesai dengan sukses
+2025-05-06 22:08:32,476 - INFO - Script dimulai
+2025-05-06 22:08:33,318 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 22:08:33,969 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 22:08:33,970 - INFO - Script selesai dengan sukses
+2025-05-06 23:08:38,920 - INFO - Script dimulai
+2025-05-06 23:08:39,570 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-06 23:08:40,077 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-06 23:08:40,078 - INFO - Script selesai dengan sukses
+2025-05-07 00:44:31,285 - INFO - Script dimulai
+2025-05-07 00:44:31,824 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 00:44:32,252 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 00:44:32,252 - INFO - Script selesai dengan sukses
+2025-05-07 02:26:36,566 - INFO - Script dimulai
+2025-05-07 02:26:37,417 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 02:26:38,068 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 02:26:38,068 - INFO - Script selesai dengan sukses
+2025-05-07 03:34:16,554 - INFO - Script dimulai
+2025-05-07 03:34:17,387 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 03:34:18,035 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 03:34:18,035 - INFO - Script selesai dengan sukses
+2025-05-07 04:12:04,416 - INFO - Script dimulai
+2025-05-07 04:12:05,176 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 04:12:05,698 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 04:12:05,698 - INFO - Script selesai dengan sukses
+2025-05-07 05:09:43,391 - INFO - Script dimulai
+2025-05-07 05:09:44,121 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 05:09:44,659 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 05:09:44,660 - INFO - Script selesai dengan sukses
+2025-05-07 06:13:39,418 - INFO - Script dimulai
+2025-05-07 06:13:39,969 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 06:13:40,395 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 06:13:40,395 - INFO - Script selesai dengan sukses
+2025-05-07 07:09:55,978 - INFO - Script dimulai
+2025-05-07 07:09:56,641 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 07:09:57,161 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 07:09:57,161 - INFO - Script selesai dengan sukses
+2025-05-07 08:13:37,461 - INFO - Script dimulai
+2025-05-07 08:13:38,285 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 08:13:38,956 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 08:13:38,956 - INFO - Script selesai dengan sukses
+2025-05-07 09:10:13,826 - INFO - Script dimulai
+2025-05-07 09:10:14,825 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 09:10:15,478 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 09:10:15,478 - INFO - Script selesai dengan sukses
+2025-05-07 10:10:10,374 - INFO - Script dimulai
+2025-05-07 10:10:10,964 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 10:10:11,391 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 10:10:11,391 - INFO - Script selesai dengan sukses
+2025-05-07 11:08:09,773 - INFO - Script dimulai
+2025-05-07 11:08:10,266 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 11:08:10,706 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 11:08:10,706 - INFO - Script selesai dengan sukses
+2025-05-07 12:17:39,720 - INFO - Script dimulai
+2025-05-07 12:17:40,376 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 12:17:40,886 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 12:17:40,886 - INFO - Script selesai dengan sukses
+2025-05-07 13:25:22,674 - INFO - Script dimulai
+2025-05-07 13:25:23,403 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 13:25:23,939 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 13:25:23,939 - INFO - Script selesai dengan sukses
+2025-05-07 14:09:39,820 - INFO - Script dimulai
+2025-05-07 14:09:40,645 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 14:09:41,292 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 14:09:41,292 - INFO - Script selesai dengan sukses
+2025-05-07 15:10:13,379 - INFO - Script dimulai
+2025-05-07 15:10:13,920 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 15:10:14,347 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 15:10:14,347 - INFO - Script selesai dengan sukses
+2025-05-07 16:11:39,996 - INFO - Script dimulai
+2025-05-07 16:11:40,819 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 16:11:41,397 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 16:11:41,397 - INFO - Script selesai dengan sukses
+2025-05-07 17:08:35,236 - INFO - Script dimulai
+2025-05-07 17:08:36,040 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 17:08:36,689 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 17:08:36,689 - INFO - Script selesai dengan sukses
+2025-05-07 18:13:21,890 - INFO - Script dimulai
+2025-05-07 18:13:22,432 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 18:13:22,866 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 18:13:22,866 - INFO - Script selesai dengan sukses
+2025-05-07 19:07:25,410 - INFO - Script dimulai
+2025-05-07 19:07:26,254 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 19:07:26,887 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 19:07:26,888 - INFO - Script selesai dengan sukses
+2025-05-07 20:10:18,663 - INFO - Script dimulai
+2025-05-07 20:10:19,378 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 20:10:19,888 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 20:10:19,889 - INFO - Script selesai dengan sukses
+2025-05-07 21:08:37,115 - INFO - Script dimulai
+2025-05-07 21:08:37,942 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 21:08:38,607 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 21:08:38,607 - INFO - Script selesai dengan sukses
+2025-05-07 22:09:06,794 - INFO - Script dimulai
+2025-05-07 22:09:07,494 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 22:09:08,038 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 22:09:08,038 - INFO - Script selesai dengan sukses
+2025-05-07 23:08:45,542 - INFO - Script dimulai
+2025-05-07 23:08:46,080 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-07 23:08:46,509 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-07 23:08:46,509 - INFO - Script selesai dengan sukses
+2025-05-08 00:45:01,264 - INFO - Script dimulai
+2025-05-08 00:45:01,860 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 00:45:02,370 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 00:45:02,370 - INFO - Script selesai dengan sukses
+2025-05-08 02:27:36,497 - INFO - Script dimulai
+2025-05-08 02:27:37,217 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 02:27:37,754 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 02:27:37,754 - INFO - Script selesai dengan sukses
+2025-05-08 03:35:20,334 - INFO - Script dimulai
+2025-05-08 03:35:20,878 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 03:35:21,327 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 03:35:21,327 - INFO - Script selesai dengan sukses
+2025-05-08 04:13:31,404 - INFO - Script dimulai
+2025-05-08 04:13:32,226 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 04:13:32,871 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 04:13:32,871 - INFO - Script selesai dengan sukses
+2025-05-08 05:10:09,773 - INFO - Script dimulai
+2025-05-08 05:10:10,618 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 05:10:11,274 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 05:10:11,274 - INFO - Script selesai dengan sukses
+2025-05-08 06:13:43,058 - INFO - Script dimulai
+2025-05-08 06:13:43,725 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 06:13:44,245 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 06:13:44,245 - INFO - Script selesai dengan sukses
+2025-05-08 07:09:47,448 - INFO - Script dimulai
+2025-05-08 07:09:48,313 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 07:09:48,996 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 07:09:48,996 - INFO - Script selesai dengan sukses
+2025-05-08 08:12:52,555 - INFO - Script dimulai
+2025-05-08 08:12:53,319 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 08:12:53,906 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 08:12:53,906 - INFO - Script selesai dengan sukses
+2025-05-08 09:10:10,918 - INFO - Script dimulai
+2025-05-08 09:10:11,461 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 09:10:11,887 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 09:10:11,887 - INFO - Script selesai dengan sukses
+2025-05-08 10:10:32,154 - INFO - Script dimulai
+2025-05-08 10:10:32,697 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 10:10:33,124 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 10:10:33,124 - INFO - Script selesai dengan sukses
+2025-05-08 11:07:56,414 - INFO - Script dimulai
+2025-05-08 11:07:57,365 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 11:07:58,034 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 11:07:58,034 - INFO - Script selesai dengan sukses
+2025-05-08 12:16:56,879 - INFO - Script dimulai
+2025-05-08 12:16:57,611 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 12:16:58,146 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 12:16:58,146 - INFO - Script selesai dengan sukses
+2025-05-08 13:22:50,662 - INFO - Script dimulai
+2025-05-08 13:22:51,410 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 13:22:52,065 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 13:22:52,066 - INFO - Script selesai dengan sukses
+2025-05-08 14:09:01,938 - INFO - Script dimulai
+2025-05-08 14:09:02,821 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 14:09:03,488 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 14:09:03,488 - INFO - Script selesai dengan sukses
+2025-05-08 15:09:26,275 - INFO - Script dimulai
+2025-05-08 15:09:27,215 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 15:09:27,868 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 15:09:27,869 - INFO - Script selesai dengan sukses
+2025-05-08 16:11:17,886 - INFO - Script dimulai
+2025-05-08 16:11:18,725 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 16:11:19,394 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 16:11:19,394 - INFO - Script selesai dengan sukses
+2025-05-08 17:08:11,246 - INFO - Script dimulai
+2025-05-08 17:08:11,685 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 17:08:12,113 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 17:08:12,113 - INFO - Script selesai dengan sukses
+2025-05-08 18:12:41,859 - INFO - Script dimulai
+2025-05-08 18:12:42,713 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 18:12:43,384 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 18:12:43,384 - INFO - Script selesai dengan sukses
+2025-05-08 19:07:23,951 - INFO - Script dimulai
+2025-05-08 19:07:24,719 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 19:07:25,285 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 19:07:25,285 - INFO - Script selesai dengan sukses
+2025-05-08 20:10:21,180 - INFO - Script dimulai
+2025-05-08 20:10:21,946 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 20:10:22,485 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 20:10:22,485 - INFO - Script selesai dengan sukses
+2025-05-08 21:08:17,052 - INFO - Script dimulai
+2025-05-08 21:08:17,903 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 21:08:18,559 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 21:08:18,559 - INFO - Script selesai dengan sukses
+2025-05-08 22:08:44,438 - INFO - Script dimulai
+2025-05-08 22:08:45,095 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 22:08:45,603 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 22:08:45,603 - INFO - Script selesai dengan sukses
+2025-05-08 23:09:20,875 - INFO - Script dimulai
+2025-05-08 23:09:21,421 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-08 23:09:21,848 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-08 23:09:21,848 - INFO - Script selesai dengan sukses
+2025-05-09 00:44:28,851 - INFO - Script dimulai
+2025-05-09 00:44:29,579 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 00:44:30,115 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 00:44:30,116 - INFO - Script selesai dengan sukses
+2025-05-09 02:26:22,418 - INFO - Script dimulai
+2025-05-09 02:26:23,272 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 02:26:23,942 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 02:26:23,942 - INFO - Script selesai dengan sukses
+2025-05-09 03:34:21,873 - INFO - Script dimulai
+2025-05-09 03:34:22,654 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 03:34:23,302 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 03:34:23,302 - INFO - Script selesai dengan sukses
+2025-05-09 04:12:45,428 - INFO - Script dimulai
+2025-05-09 04:12:46,211 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 04:12:46,866 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 04:12:46,866 - INFO - Script selesai dengan sukses
+2025-05-09 05:09:48,345 - INFO - Script dimulai
+2025-05-09 05:09:49,197 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 05:09:49,846 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 05:09:49,846 - INFO - Script selesai dengan sukses
+2025-05-09 06:14:03,192 - INFO - Script dimulai
+2025-05-09 06:14:04,036 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 06:14:04,683 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 06:14:04,683 - INFO - Script selesai dengan sukses
+2025-05-09 07:09:26,680 - INFO - Script dimulai
+2025-05-09 07:09:27,268 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 07:09:27,693 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 07:09:27,693 - INFO - Script selesai dengan sukses
+2025-05-09 08:12:44,761 - INFO - Script dimulai
+2025-05-09 08:12:45,609 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 08:12:46,274 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 08:12:46,274 - INFO - Script selesai dengan sukses
+2025-05-09 09:09:43,737 - INFO - Script dimulai
+2025-05-09 09:09:44,470 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 09:09:45,007 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 09:09:45,007 - INFO - Script selesai dengan sukses
+2025-05-09 10:09:46,434 - INFO - Script dimulai
+2025-05-09 10:09:47,091 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 10:09:47,532 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 10:09:47,532 - INFO - Script selesai dengan sukses
+2025-05-09 11:07:42,887 - INFO - Script dimulai
+2025-05-09 11:07:43,442 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 11:07:43,869 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 11:07:43,869 - INFO - Script selesai dengan sukses
+2025-05-09 12:16:28,405 - INFO - Script dimulai
+2025-05-09 12:16:29,078 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 12:16:29,588 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 12:16:29,588 - INFO - Script selesai dengan sukses
+2025-05-09 13:21:09,399 - INFO - Script dimulai
+2025-05-09 13:21:09,995 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 13:21:10,533 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 13:21:10,534 - INFO - Script selesai dengan sukses
+2025-05-09 14:09:00,737 - INFO - Script dimulai
+2025-05-09 14:09:01,281 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 14:09:01,711 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 14:09:01,711 - INFO - Script selesai dengan sukses
+2025-05-09 15:09:11,249 - INFO - Script dimulai
+2025-05-09 15:09:12,325 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 15:09:12,848 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 15:09:12,849 - INFO - Script selesai dengan sukses
+2025-05-09 16:10:57,401 - INFO - Script dimulai
+2025-05-09 16:10:58,117 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 16:10:58,654 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 16:10:58,654 - INFO - Script selesai dengan sukses
+2025-05-09 17:07:55,997 - INFO - Script dimulai
+2025-05-09 17:07:56,848 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 17:07:57,502 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 17:07:57,502 - INFO - Script selesai dengan sukses
+2025-05-09 18:12:15,101 - INFO - Script dimulai
+2025-05-09 18:12:15,924 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 18:12:16,500 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 18:12:16,500 - INFO - Script selesai dengan sukses
+2025-05-09 19:07:07,754 - INFO - Script dimulai
+2025-05-09 19:07:08,511 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 19:07:09,050 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 19:07:09,051 - INFO - Script selesai dengan sukses
+2025-05-09 20:10:08,350 - INFO - Script dimulai
+2025-05-09 20:10:09,188 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 20:10:09,756 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 20:10:09,756 - INFO - Script selesai dengan sukses
+2025-05-09 21:07:46,604 - INFO - Script dimulai
+2025-05-09 21:07:47,142 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 21:07:47,568 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 21:07:47,568 - INFO - Script selesai dengan sukses
+2025-05-09 22:08:28,742 - INFO - Script dimulai
+2025-05-09 22:08:29,431 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 22:08:29,952 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 22:08:29,952 - INFO - Script selesai dengan sukses
+2025-05-09 23:08:18,196 - INFO - Script dimulai
+2025-05-09 23:08:18,791 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-09 23:08:19,219 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-09 23:08:19,219 - INFO - Script selesai dengan sukses
+2025-05-10 00:42:31,740 - INFO - Script dimulai
+2025-05-10 00:42:32,296 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 00:42:32,725 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 00:42:32,725 - INFO - Script selesai dengan sukses
+2025-05-10 02:21:25,997 - INFO - Script dimulai
+2025-05-10 02:21:26,677 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 02:21:27,195 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 02:21:27,196 - INFO - Script selesai dengan sukses
+2025-05-10 03:29:40,464 - INFO - Script dimulai
+2025-05-10 03:29:41,274 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 03:29:41,848 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 03:29:41,849 - INFO - Script selesai dengan sukses
+2025-05-10 04:10:12,273 - INFO - Script dimulai
+2025-05-10 04:10:13,219 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 04:10:13,864 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 04:10:13,864 - INFO - Script selesai dengan sukses
+2025-05-10 05:08:43,420 - INFO - Script dimulai
+2025-05-10 05:08:44,156 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 05:08:44,692 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 05:08:44,692 - INFO - Script selesai dengan sukses
+2025-05-10 06:11:29,416 - INFO - Script dimulai
+2025-05-10 06:11:30,142 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 06:11:30,677 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 06:11:30,678 - INFO - Script selesai dengan sukses
+2025-05-10 07:07:39,398 - INFO - Script dimulai
+2025-05-10 07:07:40,219 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 07:07:40,888 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 07:07:40,888 - INFO - Script selesai dengan sukses
+2025-05-10 08:10:48,635 - INFO - Script dimulai
+2025-05-10 08:10:49,173 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 08:10:49,599 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 08:10:49,599 - INFO - Script selesai dengan sukses
+2025-05-10 09:08:14,560 - INFO - Script dimulai
+2025-05-10 09:08:15,322 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 09:08:15,892 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 09:08:15,892 - INFO - Script selesai dengan sukses
+2025-05-10 10:08:30,351 - INFO - Script dimulai
+2025-05-10 10:08:30,951 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 10:08:31,487 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 10:08:31,487 - INFO - Script selesai dengan sukses
+2025-05-10 11:07:10,187 - INFO - Script dimulai
+2025-05-10 11:07:10,935 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 11:07:11,584 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 11:07:11,584 - INFO - Script selesai dengan sukses
+2025-05-10 12:14:27,491 - INFO - Script dimulai
+2025-05-10 12:14:28,033 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 12:14:28,461 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 12:14:28,461 - INFO - Script selesai dengan sukses
+2025-05-10 13:17:07,413 - INFO - Script dimulai
+2025-05-10 13:17:08,140 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 13:17:08,679 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 13:17:08,679 - INFO - Script selesai dengan sukses
+2025-05-10 14:07:28,867 - INFO - Script dimulai
+2025-05-10 14:07:29,411 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 14:07:29,838 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 14:07:29,838 - INFO - Script selesai dengan sukses
+2025-05-10 15:07:36,241 - INFO - Script dimulai
+2025-05-10 15:07:37,119 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 15:07:37,747 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 15:07:37,747 - INFO - Script selesai dengan sukses
+2025-05-10 16:09:26,020 - INFO - Script dimulai
+2025-05-10 16:09:26,880 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 16:09:27,452 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 16:09:27,452 - INFO - Script selesai dengan sukses
+2025-05-10 17:06:54,665 - INFO - Script dimulai
+2025-05-10 17:06:55,322 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 17:06:55,830 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 17:06:55,830 - INFO - Script selesai dengan sukses
+2025-05-10 18:10:45,527 - INFO - Script dimulai
+2025-05-10 18:10:46,333 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 18:10:46,961 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 18:10:46,961 - INFO - Script selesai dengan sukses
+2025-05-10 19:06:40,391 - INFO - Script dimulai
+2025-05-10 19:06:41,180 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 19:06:41,825 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 19:06:41,825 - INFO - Script selesai dengan sukses
+2025-05-10 20:08:58,085 - INFO - Script dimulai
+2025-05-10 20:08:58,746 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 20:08:59,254 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 20:08:59,254 - INFO - Script selesai dengan sukses
+2025-05-10 21:07:09,427 - INFO - Script dimulai
+2025-05-10 21:07:10,005 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 21:07:10,541 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 21:07:10,541 - INFO - Script selesai dengan sukses
+2025-05-10 22:07:20,992 - INFO - Script dimulai
+2025-05-10 22:07:21,585 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 22:07:22,127 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 22:07:22,127 - INFO - Script selesai dengan sukses
+2025-05-10 23:07:55,696 - INFO - Script dimulai
+2025-05-10 23:07:56,500 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-10 23:07:57,145 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-10 23:07:57,145 - INFO - Script selesai dengan sukses
+2025-05-11 00:48:55,840 - INFO - Script dimulai
+2025-05-11 00:48:56,564 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-11 00:48:57,229 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-11 00:48:57,229 - INFO - Script selesai dengan sukses
+2025-05-11 02:38:27,589 - INFO - Script dimulai
+2025-05-11 02:38:28,362 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-11 02:38:28,902 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-11 02:38:28,903 - INFO - Script selesai dengan sukses
+2025-05-11 03:36:17,841 - INFO - Script dimulai
+2025-05-11 03:36:18,648 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-11 03:36:19,278 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-11 03:36:19,278 - INFO - Script selesai dengan sukses
+2025-05-11 04:12:23,593 - INFO - Script dimulai
+2025-05-11 04:12:24,092 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-11 04:12:24,518 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-11 04:12:24,518 - INFO - Script selesai dengan sukses
+2025-05-11 05:08:48,527 - INFO - Script dimulai
+2025-05-11 05:08:49,224 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-11 05:08:49,760 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-11 05:08:49,761 - INFO - Script selesai dengan sukses
+2025-05-11 06:11:59,408 - INFO - Script dimulai
+2025-05-11 06:12:00,239 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-11 06:12:00,827 - INFO - Data untuk stasiun Jakarta, Indonesia berhasil dicatat.
+2025-05-11 06:12:00,827 - INFO - Script selesai dengan sukses
