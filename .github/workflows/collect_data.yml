@@ -29,7 +29,7 @@ jobs:
         run: python collectAuto.py
 
       - name: Collect weather data gbk
-      run: python data_weather_gbk.py
+        run: python data_weather_gbk.py
 
       - name: Collect weather data kemayoran
         run: python data_weather_kemayoran.py
