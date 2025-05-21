@@ -1282,3 +1282,7 @@
 2025-05-21 05:09:59,490 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
 2025-05-21 05:10:00,135 - INFO - Data untuk stasiun Kemayoran, Indonesia berhasil dicatat.
 2025-05-21 05:10:00,135 - INFO - Script selesai dengan sukses
+2025-05-21 06:14:08,370 - INFO - Script dimulai
+2025-05-21 06:14:08,923 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-05-21 06:14:09,364 - INFO - Data untuk stasiun Kemayoran, Indonesia berhasil dicatat.
+2025-05-21 06:14:09,364 - INFO - Script selesai dengan sukses

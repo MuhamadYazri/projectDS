@@ -553,3 +553,6 @@
 2025-05-21 05:10:00,281 - INFO - Script started
 2025-05-21 05:10:01,575 - INFO - Weather data for GBK successfully recorded
 2025-05-21 05:10:01,576 - INFO - Script completed successfully
+2025-05-21 06:14:09,510 - INFO - Script started
+2025-05-21 06:14:10,888 - INFO - Weather data for GBK successfully recorded
+2025-05-21 06:14:10,888 - INFO - Script completed successfully
