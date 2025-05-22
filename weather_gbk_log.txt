@@ -631,3 +631,6 @@
 2025-05-22 08:13:18,370 - INFO - Script started
 2025-05-22 08:13:19,662 - INFO - Weather data for GBK successfully recorded
 2025-05-22 08:13:19,662 - INFO - Script completed successfully
+2025-05-22 09:10:34,256 - INFO - Script started
+2025-05-22 09:10:34,352 - INFO - Weather data for GBK successfully recorded
+2025-05-22 09:10:34,352 - INFO - Script completed successfully
