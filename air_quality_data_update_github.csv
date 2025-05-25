@@ -837,3 +837,5 @@ timestamp,station_id,station_name,aqi,pm25,pm10,temperature,humidity
 2025-05-25 22:07:56,8294,"Kemayoran, Indonesia",137,137,,28,83
 2025-05-25 23:09:42,-416842,Jakarta GBK,66,66,28,,
 2025-05-25 23:09:42,8294,"Kemayoran, Indonesia",76,76,,28,83
+2025-05-26 00:07:14,-416842,Jakarta GBK,68,68,29,,
+2025-05-26 00:07:14,8294,"Kemayoran, Indonesia",81,81,,28,83
