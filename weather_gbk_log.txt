@@ -2014,3 +2014,6 @@
 2025-06-11 10:10:48,216 - INFO - Script started
 2025-06-11 10:10:49,580 - INFO - Weather data for GBK successfully recorded
 2025-06-11 10:10:49,580 - INFO - Script completed successfully
+2025-06-11 11:09:03,641 - INFO - Script started
+2025-06-11 11:09:03,745 - INFO - Weather data for GBK successfully recorded
+2025-06-11 11:09:03,746 - INFO - Script completed successfully
