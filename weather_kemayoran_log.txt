@@ -2005,3 +2005,6 @@
 2025-06-11 07:10:07,585 - INFO - Script started
 2025-06-11 07:10:07,825 - INFO - Weather data for Kemayoran successfully recorded
 2025-06-11 07:10:07,825 - INFO - Script completed successfully
+2025-06-11 08:13:38,053 - INFO - Script started
+2025-06-11 08:13:38,885 - INFO - Weather data for Kemayoran successfully recorded
+2025-06-11 08:13:38,885 - INFO - Script completed successfully
