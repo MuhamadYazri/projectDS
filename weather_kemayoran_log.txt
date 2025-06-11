@@ -1987,3 +1987,6 @@
 2025-06-11 00:47:33,100 - INFO - Script started
 2025-06-11 00:47:33,909 - INFO - Weather data for Kemayoran successfully recorded
 2025-06-11 00:47:33,909 - INFO - Script completed successfully
+2025-06-11 02:40:13,056 - INFO - Script started
+2025-06-11 02:40:15,297 - INFO - Weather data for Kemayoran successfully recorded
+2025-06-11 02:40:15,297 - INFO - Script completed successfully
