@@ -1999,3 +1999,6 @@
 2025-06-11 05:11:45,190 - INFO - Script started
 2025-06-11 05:11:45,241 - INFO - Weather data for Kemayoran successfully recorded
 2025-06-11 05:11:45,241 - INFO - Script completed successfully
+2025-06-11 06:14:31,431 - INFO - Script started
+2025-06-11 06:14:32,195 - INFO - Weather data for Kemayoran successfully recorded
+2025-06-11 06:14:32,195 - INFO - Script completed successfully

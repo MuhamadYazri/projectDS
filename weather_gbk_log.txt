@@ -1999,3 +1999,6 @@
 2025-06-11 05:11:44,939 - INFO - Script started
 2025-06-11 05:11:45,041 - INFO - Weather data for GBK successfully recorded
 2025-06-11 05:11:45,041 - INFO - Script completed successfully
+2025-06-11 06:14:29,930 - INFO - Script started
+2025-06-11 06:14:31,282 - INFO - Weather data for GBK successfully recorded
+2025-06-11 06:14:31,282 - INFO - Script completed successfully
