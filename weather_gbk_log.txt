@@ -2098,3 +2098,6 @@
 2025-06-12 15:10:09,517 - INFO - Script started
 2025-06-12 15:10:10,830 - INFO - Weather data for GBK successfully recorded
 2025-06-12 15:10:10,830 - INFO - Script completed successfully
+2025-06-12 16:11:49,909 - INFO - Script started
+2025-06-12 16:11:51,263 - INFO - Weather data for GBK successfully recorded
+2025-06-12 16:11:51,263 - INFO - Script completed successfully
