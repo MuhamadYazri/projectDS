@@ -3860,3 +3860,7 @@ Traceback (most recent call last):
 requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.waqi.info', port=443): Max retries exceeded with url: /feed/A416842/?token=a30fea92caae312f5d6dbb5a55e12dbb13f0fc1e (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f35dc83ae80>: Failed to resolve 'api.waqi.info' ([Errno -3] Temporary failure in name resolution)"))
 2025-06-17 03:41:52,149 - INFO - Data untuk stasiun Kemayoran, Indonesia berhasil dicatat.
 2025-06-17 03:41:52,149 - INFO - Script selesai dengan sukses
+2025-06-17 04:18:45,593 - INFO - Script dimulai
+2025-06-17 04:18:51,400 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-06-17 04:18:51,980 - INFO - Data untuk stasiun Kemayoran, Indonesia berhasil dicatat.
+2025-06-17 04:18:51,980 - INFO - Script selesai dengan sukses
