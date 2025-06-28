@@ -4933,3 +4933,7 @@ requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.waqi.info', p
 2025-06-28 05:10:20,080 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
 2025-06-28 05:10:20,646 - INFO - Data untuk stasiun Kemayoran, Indonesia berhasil dicatat.
 2025-06-28 05:10:20,646 - INFO - Script selesai dengan sukses
+2025-06-28 06:12:33,644 - INFO - Script dimulai
+2025-06-28 06:12:34,442 - INFO - Data untuk stasiun Jakarta GBK berhasil dicatat.
+2025-06-28 06:12:35,009 - INFO - Data untuk stasiun Kemayoran, Indonesia berhasil dicatat.
+2025-06-28 06:12:35,009 - INFO - Script selesai dengan sukses
