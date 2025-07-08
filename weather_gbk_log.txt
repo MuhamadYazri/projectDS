@@ -3883,3 +3883,6 @@
 2025-07-08 12:18:58,179 - INFO - Script started
 2025-07-08 12:18:59,276 - INFO - Weather data for GBK successfully recorded
 2025-07-08 12:18:59,276 - INFO - Script completed successfully
+2025-07-08 13:27:21,402 - INFO - Script started
+2025-07-08 13:27:22,527 - INFO - Weather data for GBK successfully recorded
+2025-07-08 13:27:22,528 - INFO - Script completed successfully
