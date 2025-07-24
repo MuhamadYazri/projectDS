@@ -4948,3 +4948,6 @@
 2025-07-24 00:51:59,791 - INFO - Script started
 2025-07-24 00:52:00,702 - INFO - Weather data for Kemayoran successfully recorded
 2025-07-24 00:52:00,702 - INFO - Script completed successfully
+2025-07-24 02:51:31,088 - INFO - Script started
+2025-07-24 02:51:31,880 - INFO - Weather data for Kemayoran successfully recorded
+2025-07-24 02:51:31,880 - INFO - Script completed successfully
