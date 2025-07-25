@@ -5080,3 +5080,6 @@
 2025-07-25 22:09:39,965 - INFO - Script started
 2025-07-25 22:09:40,944 - INFO - Weather data for GBK successfully recorded
 2025-07-25 22:09:40,944 - INFO - Script completed successfully
+2025-07-25 23:10:08,556 - INFO - Script started
+2025-07-25 23:10:10,059 - INFO - Weather data for GBK successfully recorded
+2025-07-25 23:10:10,060 - INFO - Script completed successfully
