@@ -5104,3 +5104,6 @@
 2025-07-26 07:10:47,837 - INFO - Script started
 2025-07-26 07:10:48,155 - INFO - Weather data for Kemayoran successfully recorded
 2025-07-26 07:10:48,155 - INFO - Script completed successfully
+2025-07-26 08:12:30,876 - INFO - Script started
+2025-07-26 08:12:32,092 - INFO - Weather data for Kemayoran successfully recorded
+2025-07-26 08:12:32,092 - INFO - Script completed successfully
