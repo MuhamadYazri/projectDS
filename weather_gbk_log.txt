@@ -6160,3 +6160,6 @@
 2025-08-11 02:56:19,658 - INFO - Script started
 2025-08-11 02:56:20,957 - INFO - Weather data for GBK successfully recorded
 2025-08-11 02:56:20,957 - INFO - Script completed successfully
+2025-08-11 04:00:43,543 - INFO - Script started
+2025-08-11 04:00:45,357 - INFO - Weather data for GBK successfully recorded
+2025-08-11 04:00:45,357 - INFO - Script completed successfully
