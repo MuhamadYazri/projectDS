@@ -6328,3 +6328,6 @@
 2025-08-13 13:28:13,718 - INFO - Script started
 2025-08-13 13:28:20,715 - INFO - Weather data for GBK successfully recorded
 2025-08-13 13:28:20,715 - INFO - Script completed successfully
+2025-08-13 14:11:19,181 - INFO - Script started
+2025-08-13 14:11:19,984 - INFO - Weather data for GBK successfully recorded
+2025-08-13 14:11:19,985 - INFO - Script completed successfully
