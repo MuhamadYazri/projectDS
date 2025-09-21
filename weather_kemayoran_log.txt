@@ -9001,3 +9001,6 @@
 2025-09-21 07:08:34,373 - INFO - Script started
 2025-09-21 07:08:34,661 - INFO - Weather data for Kemayoran successfully recorded
 2025-09-21 07:08:34,662 - INFO - Script completed successfully
+2025-09-21 08:10:33,046 - INFO - Script started
+2025-09-21 08:10:33,788 - INFO - Weather data for Kemayoran successfully recorded
+2025-09-21 08:10:33,789 - INFO - Script completed successfully
